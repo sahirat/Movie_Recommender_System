@@ -7,5 +7,5 @@ In this we have extract two files:
 ^ movies_dict.pkl
 ^ similarit.pkl
 
-
+Run this project in Pycharm by - streamlit run app.py
 <img src="Screenshot (5).png" />
